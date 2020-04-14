@@ -163,7 +163,10 @@
                             "name": "number",
                             "ioValue": 9.9
                         }
-                    ]
+                    ],
+                    "evolve": false,
+                    "min": 0,
+                    "max": 20
                 },
                 {
                     "atomType": "Readme",
@@ -275,8 +278,7 @@
                             "name": "2D shape 555303",
                             "ioValue": 10
                         }
-                    ],
-                    "removeCutawayGeometry": true
+                    ]
                 },
                 {
                     "atomType": "Readme",
